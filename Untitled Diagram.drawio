@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BguUd6QdyebU6Nq2mcCQ-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fa/0" vertex="1">
-          <mxGeometry height="30" width="30" x="-40" y="215" as="geometry" />
+          <mxGeometry height="30" width="30" x="-15" y="350" as="geometry" />
         </mxCell>
         <mxCell id="BguUd6QdyebU6Nq2mcCQ-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.1.53 /24" vertex="1">
           <mxGeometry height="30" width="60" x="-30" y="330" as="geometry" />
@@ -217,31 +217,31 @@
         <mxCell id="BguUd6QdyebU6Nq2mcCQ-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Branch-2&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="60" x="650" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.6.254 /24" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.6.254 /24 Vlan" vertex="1">
           <mxGeometry height="30" width="60" x="580" y="302.5" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.3.50 /24" vertex="1">
-          <mxGeometry height="30" width="60" x="50" y="490" as="geometry" />
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.3.50 /24&amp;nbsp;&lt;div&gt;Fa0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="502.5" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.4.115 /24" vertex="1">
-          <mxGeometry height="30" width="60" x="260" y="430" as="geometry" />
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.4.115 /24&lt;div&gt;Fa0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.5.85 /25" vertex="1">
-          <mxGeometry height="30" width="60" x="375" y="577.5" as="geometry" />
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.5.85 /25&lt;div&gt;Fa0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="375" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.5.227 /25" vertex="1">
-          <mxGeometry height="30" width="60" x="505" y="590" as="geometry" />
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.5.227 /25&lt;div&gt;Fa0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="505" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.2.48 /27" vertex="1">
-          <mxGeometry height="30" width="60" x="710" y="532.5" as="geometry" />
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.2.48 /27&lt;div&gt;Fa0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.2.67 /27&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="60" x="810" y="482.5" as="geometry" />
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.2.67 /27&lt;div&gt;Fa0&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="810" y="485.63" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.6.253 /24" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.6.253 /24 Vlan" vertex="1">
           <mxGeometry height="30" width="60" x="590" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.6.252 /24" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.6.252 /24 Vlan" vertex="1">
           <mxGeometry height="30" width="60" x="380" y="380" as="geometry" />
         </mxCell>
         <mxCell id="TeZa-5rKWEx1W92VlsvZ-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=".1 192.168.6.1 /24&lt;div&gt;.5 192.168.5.1 /25&lt;/div&gt;&lt;div&gt;.10 192.168.5.129 /25&lt;/div&gt;" vertex="1">
@@ -266,49 +266,49 @@
             <mxPoint x="525" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.4.1" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.4.1 /24 G0/0/1" vertex="1">
           <mxGeometry height="30" width="60" x="210" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.4.252 /30" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.4.252 /30 Vlan" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="322.5" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.3.1" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.3.1 /24 G0/0/0" vertex="1">
           <mxGeometry height="30" width="60" x="110" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.3.252&amp;nbsp;" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.3.252 /24 Vlan" vertex="1">
           <mxGeometry height="30" width="60" x="100" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.1.252 /24" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.1.252 /24 Vlan" vertex="1">
           <mxGeometry height="30" width="60" x="37.5" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.1.1" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.1.1 /24&lt;div&gt;G0/0/0&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-60" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.2" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.2 /30 S0/1/0" vertex="1">
           <mxGeometry height="30" width="60" x="20" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.1 /30" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.1 /30 S0/1/0" vertex="1">
           <mxGeometry height="30" width="60" x="305" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.13&lt;div&gt;/30&lt;/div&gt;" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.13&lt;div&gt;/30 S0/2/1&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="345" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.9 /30" vertex="1">
-          <mxGeometry height="30" width="60" x="390" y="180" as="geometry" />
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.9 /30 S0/2/0" vertex="1">
+          <mxGeometry height="30" width="60" x="390" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.5 /30" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.5 /30 S0/1/1" vertex="1">
           <mxGeometry height="30" width="60" x="445" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.2.17 /30" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.2.17 /30 Vlan" vertex="1">
           <mxGeometry height="30" width="60" x="780" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=".1 192.168.2.1&lt;div&gt;.32 192.168.2.33&lt;/div&gt;&lt;div&gt;.64 192.168.2.65&lt;/div&gt;" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=".1 192.168.2.1 /27&lt;div&gt;.32 192.168.2.33 /27&lt;/div&gt;&lt;div&gt;.64 192.168.2.65 /27&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="740" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.6 /30" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.6 /30 S0/1/0" vertex="1">
           <mxGeometry height="30" width="60" x="650" y="215" as="geometry" />
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.10" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.10 /30 S0/1/1" vertex="1">
           <mxGeometry height="30" width="60" x="350" y="215" as="geometry" />
         </mxCell>
         <mxCell id="TeZa-5rKWEx1W92VlsvZ-39" edge="1" parent="1" source="BguUd6QdyebU6Nq2mcCQ-3" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="TeZa-5rKWEx1W92VlsvZ-26" value="">
@@ -318,7 +318,7 @@
             <mxPoint x="414" y="166" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TeZa-5rKWEx1W92VlsvZ-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.14 /30" vertex="1">
+        <mxCell id="TeZa-5rKWEx1W92VlsvZ-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.0.14 /30 S0/1/1" vertex="1">
           <mxGeometry height="30" width="60" x="210" y="220" as="geometry" />
         </mxCell>
         <mxCell id="AZKKnqHdfzt-FkeOOnst-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Internet" vertex="1">
